@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "HR Portal and EWA Ledger Workspace",
+  "description": "A comprehensive operational cockpit for managing employee records, Earned Wage Access (EWA) disbursements, tenure-based liquidity limits, corporate CSR match campaigns, and HR mindfulness focus sanctuaries.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
